@@ -8,3 +8,6 @@ helped with the site's interface.
 ## Further help
 How it works?
 ![](gif.gif)
+
+
+**The whole site structure is based on tutorial videos by the Udemy.com.**
