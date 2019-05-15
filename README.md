@@ -10,4 +10,4 @@ How it works?
 ![](gif.gif)
 
 
-**The whole site structure is based on tutorial videos by the Udemy.com.**
+**The whole site's structure is based on tutorial videos by the Udemy.com.**
