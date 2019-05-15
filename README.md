@@ -7,4 +7,4 @@ helped with the site's interface.
 
 ## Further help
 How it works?
-
+![](gif.gif)
